@@ -9,3 +9,5 @@ From my understanding, Chrome Extensions is a framework and your extension app i
 ## How to test?
 
 Click on extensions button > Manage Extensions > Load unpacked > Navigate to extensions directory > Select
+
+![result](result.png)
